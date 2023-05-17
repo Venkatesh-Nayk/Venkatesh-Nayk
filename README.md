@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Venkatesh Nayak.
 
+I'm an aspiring Data Analyst with a keen interest in handling and manipulating the data and providing the best possible insight on the same.
 <!--
 **Venkatesh-Nayk/Venkatesh-Nayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
